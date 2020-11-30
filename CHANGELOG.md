@@ -22,3 +22,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Code Spell Checker
 - Todo Tree
 - filesize
+
+[1.0.1] - 2020-12-1
+### Changed
+- Change icon
+- Reduce the size of package

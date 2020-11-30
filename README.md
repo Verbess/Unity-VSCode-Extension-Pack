@@ -1,5 +1,5 @@
 # Unity VSCode Extension Pack
-<p align="center"><img width="200px" src="images/MEME.jpg"></p>
+<p align="center"><img width="200px" src="images/icon.png"></p>
 
 ## What contains
 ### C# Support
