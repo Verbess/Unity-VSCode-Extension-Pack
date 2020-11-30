@@ -55,7 +55,7 @@ Temporary Items
 
 # Editors cache
 # Visual Studio Code cache directory
-# .vscode/
+.vscode/
 
 # Visual Studio cache directory
 .vs/
