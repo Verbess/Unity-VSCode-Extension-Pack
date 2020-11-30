@@ -23,7 +23,7 @@
     "extensionPack": [
         "ms-dotnettools.csharp",
         "k--kato.docomment",
-        "unity.unity-debug ",
+        "unity.unity-debug",
         "tobiah.unity-tools",
         "kleber-swf.unity-code-snippets",
         "slevesque.shader",
@@ -32,9 +32,9 @@
         "verbess.outer-heaven-theme",
         "equinusocio.vsc-material-theme-icons",
         "coenraads.bracket-pair-colorizer-2",
-        "streetsidesoftware.code-spell-checker"
+        "streetsidesoftware.code-spell-checker",
         "gruntfuggly.todo-tree",
-        "mkxml.vscode-filesize",
+        "mkxml.vscode-filesize"
     ],
     "license": "SEE LICENSE IN LICENSE.txt",
     "homepage": "https://github.com/Verbess/Unity-VSCode-Extension-Pack",
