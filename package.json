@@ -1,0 +1,49 @@
+{
+    "name": "unity-vscode-extension-pack",
+    "displayName": "Unity VSCode Extension Pack",
+    "description": "Extension pack for Unity Dev with vscode.",
+    "icon": "images/MEME.jpg",
+    "version": "1.0.0",
+    "publisher": "Verbess",
+    "author": {
+        "name": "Verbess"
+    },
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords": [
+        "vscode",
+        "Unity",
+        "Extension Packs",
+        "C#"
+    ],
+    "extensionPack": [
+        "ms-dotnettools.csharp",
+        "k--kato.docomment",
+        "unity.unity-debug ",
+        "tobiah.unity-tools",
+        "kleber-swf.unity-code-snippets",
+        "slevesque.shader",
+        "amlovey.shaderlabvscodefree",
+        "eamodio.gitlens",
+        "verbess.outer-heaven-theme",
+        "equinusocio.vsc-material-theme-icons",
+        "coenraads.bracket-pair-colorizer-2",
+        "streetsidesoftware.code-spell-checker"
+        "gruntfuggly.todo-tree",
+        "mkxml.vscode-filesize",
+    ],
+    "license": "SEE LICENSE IN LICENSE.txt",
+    "homepage": "https://github.com/Verbess/Unity-VSCode-Extension-Pack",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Verbess/Unity-VSCode-Extension-Pack.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Verbess/Unity-VSCode-Extension-Pack/issues",
+        "email": "verbess@foxmail.com"
+    }
+}
