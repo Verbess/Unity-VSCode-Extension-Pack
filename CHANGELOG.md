@@ -31,3 +31,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 [1.0.2] - 2020-12-26
 ### Added
 - Plugin - [Paste JSON as Code]: Interactively generate types and (de-)serialization code from JSON, JSON Schema, and TypeScript.
+
+[1.0.3] - 2020-12-26
+### Changed
+- Reduce the package size

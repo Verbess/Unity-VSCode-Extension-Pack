@@ -4,7 +4,7 @@
 ## Tips
 **You can uninstall the plugins that you don't need.**
 
-<p align="center"><img width="400px" src="images/uninstall.png"></p>
+<p align="center"><img width="400px" src="images/uninstall.jpg"></p>
 
 ## What contains
 <details>

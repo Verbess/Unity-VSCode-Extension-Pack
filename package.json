@@ -3,7 +3,7 @@
     "displayName": "Unity VSCode Extension Pack",
     "description": "Extension pack for Unity Dev with vscode.",
     "icon": "images/icon.png",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "publisher": "Verbess",
     "author": {
         "name": "Verbess"
