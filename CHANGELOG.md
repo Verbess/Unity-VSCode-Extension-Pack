@@ -27,3 +27,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Changed
 - Change icon
 - Reduce the size of package
+
+[1.0.2] - 2020-12-26
+### Added
+- Plugin - [Paste JSON as Code]: Interactively generate types and (de-)serialization code from JSON, JSON Schema, and TypeScript.

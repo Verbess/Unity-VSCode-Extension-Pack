@@ -3,7 +3,7 @@
     "displayName": "Unity VSCode Extension Pack",
     "description": "Extension pack for Unity Dev with vscode.",
     "icon": "images/icon.png",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "Verbess",
     "author": {
         "name": "Verbess"
@@ -23,6 +23,7 @@
     "extensionPack": [
         "ms-dotnettools.csharp",
         "k--kato.docomment",
+        "quicktype.quicktype",
         "unity.unity-debug",
         "tobiah.unity-tools",
         "kleber-swf.unity-code-snippets",
