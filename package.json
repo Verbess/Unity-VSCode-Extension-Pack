@@ -1,9 +1,9 @@
 {
-    "name": "unity-vscode-extension-pack",
-    "displayName": "Unity VSCode Extension Pack",
-    "description": "Extension pack for Unity Dev with vscode.",
+    "name": "vscode-extension-pack-for-unity",
+    "displayName": "Unity Extension Pack",
+    "description": "Extension pack for Unity Dev with VSCode.",
     "icon": "images/icon.png",
-    "version": "1.0.3",
+    "version": "1.1.0",
     "publisher": "Verbess",
     "author": {
         "name": "Verbess"
@@ -23,14 +23,17 @@
     "extensionPack": [
         "ms-dotnettools.csharp",
         "k--kato.docomment",
-        "quicktype.quicktype",
+        "aaron-bond.better-comments",
         "unity.unity-debug",
         "tobiah.unity-tools",
         "kleber-swf.unity-code-snippets",
+        "ptd.vscode-unitymeta",
         "slevesque.shader",
         "amlovey.shaderlabvscodefree",
         "eamodio.gitlens",
+        "donjayamanne.githistory",
         "verbess.outer-heaven-theme",
+        "fisheva.eva-theme",
         "equinusocio.vsc-material-theme-icons",
         "coenraads.bracket-pair-colorizer-2",
         "streetsidesoftware.code-spell-checker",
@@ -38,13 +41,12 @@
         "mkxml.vscode-filesize"
     ],
     "license": "SEE LICENSE IN LICENSE.txt",
-    "homepage": "https://github.com/Verbess/Unity-VSCode-Extension-Pack",
+    "homepage": "https://github.com/Verbess/VSCode-Extension-Pack-For-Unity",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Verbess/Unity-VSCode-Extension-Pack.git"
+        "url": "https://github.com/Verbess/VSCode-Extension-Pack-For-Unity.git"
     },
     "bugs": {
-        "url": "https://github.com/Verbess/Unity-VSCode-Extension-Pack/issues",
-        "email": "verbess@foxmail.com"
+        "url": "https://github.com/Verbess/VSCode-Extension-Pack-For-Unity/issues"
     }
 }
